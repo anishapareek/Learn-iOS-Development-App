@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EBA3A7AB-A093-4C28-89C7-28B9FCA543B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91EC8DB7-7E35-4F8C-BEE2-2AB2C27446FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/Test/TestView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "91EC8DB7-7E35-4F8C-BEE2-2AB2C27446FB - ce93eb91d5ce3d06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "2064">
+               </Location>
+               <Location
+                  uuid = "91EC8DB7-7E35-4F8C-BEE2-2AB2C27446FB - ce93eb91d5ce3d06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "2364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F4CE13D-9AC0-45D7-8EE8-9CE118932F5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/Test/TestView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7F4CE13D-9AC0-45D7-8EE8-9CE118932F5B - ce93eb91d5ce3ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1920">
+               </Location>
+               <Location
+                  uuid = "7F4CE13D-9AC0-45D7-8EE8-9CE118932F5B - ce93eb91d5ce3ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "2220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EAA5F96-47EC-48F3-832A-617B0BA33B4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/Test/TestView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9EAA5F96-47EC-48F3-832A-617B0BA33B4C - ce93eb91d5ce04ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "9EAA5F96-47EC-48F3-832A-617B0BA33B4C - ce93eb91d5ce04ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "9EAA5F96-47EC-48F3-832A-617B0BA33B4C - ce93eb91d5ce04ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1788">
+               </Location>
+               <Location
+                  uuid = "9EAA5F96-47EC-48F3-832A-617B0BA33B4C - ce93eb91d5ce04ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "944">
+               </Location>
+               <Location
+                  uuid = "9EAA5F96-47EC-48F3-832A-617B0BA33B4C - ce93eb91d5ce04ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "9EAA5F96-47EC-48F3-832A-617B0BA33B4C - ce93eb91d5ce04ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "2088">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3322E9A-32B5-4FDC-96FD-626C5331A7AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/Test/TestView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C3322E9A-32B5-4FDC-96FD-626C5331A7AC - dcb248e9c5081fdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, LearningApp.CodeTextView, SwiftUI.ScrollView&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "C3322E9A-32B5-4FDC-96FD-626C5331A7AC - dcb248e9c5081fdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, LearningApp.CodeTextView, SwiftUI.ScrollView&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in LearningApp.TestView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46D92D4B-D0F0-4071-B3B7-A7F1B00332B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/ContentModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "351"
+            endingLineNumber = "351"
+            landmarkName = "nextQuestion()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46D92D4B-D0F0-4071-B3B7-A7F1B00332B2 - c399746eba8e29e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.ContentModel.nextQuestion() -&gt; ()"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/ContentModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "46D92D4B-D0F0-4071-B3B7-A7F1B00332B2 - c399746eba8e29e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.ContentModel.nextQuestion() -&gt; ()"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/ContentModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAB19451-1369-4DAB-B87A-E180BCC05A0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/Test/TestResultView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "resultHeading"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EAB19451-1369-4DAB-B87A-E180BCC05A0F - 8a32b9c5cd5af24c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestResultView.resultHeading.getter : Swift.String"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "EAB19451-1369-4DAB-B87A-E180BCC05A0F - 8a32b9c5cd5af24c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestResultView.resultHeading.getter : Swift.String"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F86F4085-E9A7-4DFF-A1DE-368D25BEC325"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/Test/TestResultView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "resultHeading"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F86F4085-E9A7-4DFF-A1DE-368D25BEC325 - 8a32b9c5cd5aeda9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestResultView.resultHeading.getter : Swift.String"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "F86F4085-E9A7-4DFF-A1DE-368D25BEC325 - 8a32b9c5cd5aeda9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.TestResultView.resultHeading.getter : Swift.String"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2025FF6-0C91-4B8F-B2FB-A723D50DE6ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/Test/TestResultView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C2025FF6-0C91-4B8F-B2FB-A723D50DE6ED - 9a3c16a40d3f6fd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Spacer)&gt; in LearningApp.TestResultView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "564">
+               </Location>
+               <Location
+                  uuid = "C2025FF6-0C91-4B8F-B2FB-A723D50DE6ED - 9a3c16a40d3f6fd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Spacer)&gt; in LearningApp.TestResultView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0794826-9930-441B-A746-01350978E3CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/Test/TestResultView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E0794826-9930-441B-A746-01350978E3CF - 9a3c16a40d3f6c34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Spacer)&gt; in LearningApp.TestResultView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "E0794826-9930-441B-A746-01350978E3CF - 9a3c16a40d3f6c34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Spacer)&gt; in LearningApp.TestResultView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16CF650A-3994-4B43-9A05-3CF11C181F7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/ContentModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "saveData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "16CF650A-3994-4B43-9A05-3CF11C181F7E - 542438d7c41363f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for LearningApp.ContentModel.saveData(writeToDatabase: Swift.Bool) async -&gt; ()"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/ContentModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "16CF650A-3994-4B43-9A05-3CF11C181F7E - edb7ccae9e010757"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.ContentModel.saveData() -&gt; ()"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/ContentModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A4E248C-7844-4728-88BA-DD8AB107640E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/ContentModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "saveData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A4E248C-7844-4728-88BA-DD8AB107640E - 542438d7c4136411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for LearningApp.ContentModel.saveData(writeToDatabase: Swift.Bool) async -&gt; ()"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/ContentModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "4A4E248C-7844-4728-88BA-DD8AB107640E - edb7ccae9e0100b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LearningApp.ContentModel.saveData() -&gt; ()"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/ContentModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40A1BD02-0A9F-42B3-8543-EAF0B1E0BE64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningApp/Views/Test/TestResultView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "40A1BD02-0A9F-42B3-8543-EAF0B1E0BE64 - 2cf3125a29a54dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Spacer)&gt; in LearningApp.TestResultView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "40A1BD02-0A9F-42B3-8543-EAF0B1E0BE64 - 2cf3125a29a54dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.Spacer)&gt; in LearningApp.TestResultView.body.getter : some"
+                  moduleName = "LearningApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anisha/Desktop/Code%20with%20Chris/iOS%20Foundations%20with%20SwiftUI/LearningApp%20copy/LearningApp/Views/Test/TestResultView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
