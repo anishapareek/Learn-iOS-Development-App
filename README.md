@@ -1,4 +1,5 @@
 # GoGrow
+The app is developed in SwiftUI and MVVM architecture pattern is followed for code organization. 
 
 This app contains two major components - one features for learning and the second features for assessment.
 
