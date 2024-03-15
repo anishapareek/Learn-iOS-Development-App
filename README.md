@@ -1,4 +1,8 @@
 # GoGrow
+
+It is a learning app that can be used to learn about Swift and SwiftUI. There are multiple modules for different subjects and the user can resume from the module they were last reading. 
+After going through the modules and learning about a subject, the user can complete an assessment to assess his knowledge in the concerned subject. The assessment can also be resumed from where the user left. Finally, the user is shown the score achieved after completing the assessment. 
+
 The app is developed in SwiftUI and MVVM architecture pattern is followed for code organization. 
 
 This app contains two major components - one features for learning and the second features for assessment.
